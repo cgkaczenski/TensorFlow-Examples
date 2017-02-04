@@ -67,7 +67,7 @@ Then if it is the case use the instructions on [this page](https://docs.docker.c
 
 This is a permissions issue, and a popular answer is provided for Linux and Max OSX [here](http://stackoverflow.com/questions/21871479/docker-cant-connect-to-docker-daemon) on StackOverflow.
 
-Notes for anyone needing to build their own containers (mostly instructors)
+Notes for anyone needing to build their own containers 
 ===========================================================================
 
 Building a local Docker container
